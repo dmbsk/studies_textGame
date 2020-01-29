@@ -1,0 +1,236 @@
+{
+  "questions": [
+    {
+      "content": "Czy w Asemblerze instrukcje zapisywane sią w postaci mnemoników – krótkich wyrazów zrozumiałych dla człowieka?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy Asembler jest przykładem języka imperatywnego?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy w programowaniu imperatywnym program stanowi kod maszynowy?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy podprogramy (funkcje, procedury) mogą posiadać własne zmienne lokalne?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy wadą programowania obiektowego jest trudność modyfikacji?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy nazwę zmiennej w Pythonie można zacząć od cyfry?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy funkcja ‘abs()’ jest funkcją wbudowaną w Pythonie?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy funkcja ‘raw_input()’ wczytuje napis z klawiatury?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy warunek  ‘elif’ musi być poprzedzony warunkiem ‘if’?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy w sekwencji ciąg instrukcji wykonywany jest tylko jeden raz?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy Phyton jest językiem obiektowym?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy funkcja ‘range()’ zwraca kod ASCI wybranego znaku?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy Asembler jest językiem niskiego poziomu?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy Phyton jest językiem niskiego poziomu?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy JavaScript jest językiem specjalizowanym?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy SQL jest językiem ogólnego przeznaczenia?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Do przerywania pętli w Pythonie służy instrukcja quit? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Nie"
+    },
+    {
+      "content": "Czy C++ jest językiem znaczników? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Nie"
+    },
+    {
+      "content": "Czy HTML jest językiem znaczników? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy Bootstrap jest językiem programowania?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "w Pythonie, wyrażenie 10%3 daje wynik 7",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy JavaScript jest językiem niskiego poziomu?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy Python pozwala na programowanie według wielu paradygmatów?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy języki C i C++ mają podobną składnię? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy języki Java i JavaScript mają podobną składnię? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy nazwa języka programowania Python pochodzi od Latającego Cyrku Montyego Pythona? ",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    },
+    {
+      "content": "Czy nazwa „Python” pochodzi od gada z rodziny wężowatych, ponieważ jest szybki i elastyczny jak wąż?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy preprocesor jest elementem charakterystycznym dla języka Python?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "No"
+    },
+    {
+      "content": "Czy preprocesor jest elementem charakterystycznym dla języka C?",
+      "answers": [
+        "Yes",
+        "No"
+      ],
+      "goodAnswer": "Yes"
+    }
+  ]
+}
